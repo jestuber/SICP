@@ -14,7 +14,7 @@
 ; scheme uses applicative order evaluation, so it evaluates both
 ; the then-clause and the else-clause. The else-clause keeps calling itself
 ; and runs forever.
-; The special if statement uses normal order evaluation?
+; The special if statement uses normal order evaluation, as does the cond statement
 
 
 
